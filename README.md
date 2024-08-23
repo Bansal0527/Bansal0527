@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://github.com/Alok-Godara/Alok-Godara/blob/main/Coding_Img.gif" alt="Coding" width="350" align="right" style="border-radius: 7px;">
-- 📫 How to reach me **works.mayank27@gmail.com**
+- 📫 How to reach me ##works.mayank27@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
